@@ -1,2 +1,2 @@
 # hello-world
-This is the second version of this preoject
+This is the second version of this project
